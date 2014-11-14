@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="jasmine-node" errors="0" tests="3" failures="0" time="0.025" timestamp="2014-11-10T16:08:43">
+  <testcase classname="jasmine-node" name="should pass" time="0.003"></testcase>
+  <testcase classname="jasmine-node" name="shows asynchronous test" time="0.011"></testcase>
+  <testcase classname="jasmine-node" name="shows asynchronous test node-style" time="0.011"></testcase>
+</testsuite>
+</testsuites>

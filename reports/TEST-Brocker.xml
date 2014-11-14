@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Brocker" errors="0" tests="7" failures="2" time="0.006" timestamp="2014-11-11T10:32:18">
+  <testcase classname="Brocker" name="should be an Object" time="0.002"></testcase>
+  <testcase classname="Brocker" name="should have defined countOfMsg and portionOfMsg (custom or default)" time="0"></testcase>
+  <testcase classname="Brocker" name="should have countOfMsg = 10 and portionOfMsg = 2 by default" time="0.003"></testcase>
+  <testcase classname="Brocker" name="should have integer countOfMsg and portionOfMsg " time="0"></testcase>
+  <testcase classname="Brocker" name="should have arrOfMsg[] of &amp;apos;countOfMsg&amp;apos; elements" time="0"></testcase>
+  <testcase classname="Brocker" name="may call makeMsg() with string args &amp;apos;stop&amp;apos; or &amp;apos;start&amp;apos;" time="0"><failure type="expect" message="makeMsg() method does not exist">makeMsg() method does not exist</failure></testcase>
+  <testcase classname="Brocker" name="may call makeMsg() without args" time="0"><failure type="expect" message="makeMsg() method does not exist">makeMsg() method does not exist</failure></testcase>
+</testsuite>
+</testsuites>
